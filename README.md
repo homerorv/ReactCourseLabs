@@ -1,3 +1,3 @@
 # ReactCourseLabs
 
-# Personal Labs code for the React Course. 
+Personal Labs code for the React Course. 
